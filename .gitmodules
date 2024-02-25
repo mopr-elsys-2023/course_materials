@@ -1,0 +1,3 @@
+[submodule "training_task_graph_traversal-solution"]
+	path = training_task_graph_traversal-solution
+	url = https://github.com/mopr-elsys-2023/training_task_graph_traversal-template
